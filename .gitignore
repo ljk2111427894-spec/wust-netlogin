@@ -11,6 +11,10 @@ payload.zip
 # Root intermediate binary
 /CampusNetLogin.exe
 
+# Local personal scripts & legacy templates (not tracked in remote repo)
+Push_To_GitHub.bat
+setup_script.iss
+
 # Environment & IDE
 .vscode/
 .idea/
