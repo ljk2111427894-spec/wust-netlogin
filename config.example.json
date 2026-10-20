@@ -1,0 +1,24 @@
+{
+  "auth_url": "http://59.68.177.9",
+  "username": "",
+  "password": "",
+  "carrier": "",
+  "connect_mode": "wifi_web",
+  "wifi_ssid": "WUST-WiFi6",
+  "pppoe_name": "宽带连接",
+  "check_interval": 15,
+  "auto_reconnect": true,
+  "auto_start": false,
+  "auto_daemon_on_start": true,
+  "minimize_on_start": false,
+  "minimize_on_daemon": false,
+  "close_to_tray": true,
+  "window_geometry": "860x720",
+  "window_is_maximized": false,
+  "probe_urls": [
+    "http://connectivitycheck.platform.hicloud.com/generate_204",
+    "http://connect.rom.miui.com/generate_204",
+    "http://www.baidu.com",
+    "http://www.msftconnecttest.com/connecttest.txt"
+  ]
+}

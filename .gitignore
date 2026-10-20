@@ -1,0 +1,20 @@
+# Python & PyInstaller
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+build/
+dist/
+build_stage/
+payload.zip
+
+# Root intermediate binary
+/CampusNetLogin.exe
+
+# Environment & IDE
+.vscode/
+.idea/
+*.log
+
+# Personal configuration (avoids leaking user password)
+config.json
